@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const Table = require('cli-table');
 const chalk = require('chalk');
 
