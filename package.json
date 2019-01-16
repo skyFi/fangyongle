@@ -1,0 +1,26 @@
+{
+  "name": "fangyongle",
+  "version": "1.0.1",
+  "description": "fangyongle",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "bin": {
+    "fangyongle": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyFi/fangyongle.git"
+  },
+  "keywords": [
+    "fangyongle"
+  ],
+  "author": "skylor",
+  "license": "ISC",
+  "homepage": "https://fangyongle.com",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "text-table": "^0.2.0"
+  }
+}
