@@ -1,3 +1,11 @@
+
+## Usage (NO need install)
+
+```bash
+npx fangyongle
+```
+
+## Info
 ```
              Name   Fang Yongle
 
