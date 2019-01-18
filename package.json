@@ -1,6 +1,6 @@
 {
   "name": "fangyongle",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "fangyongle",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,7 @@
   "license": "ISC",
   "homepage": "https://fangyongle.com",
   "dependencies": {
+    "chalk": "^2.4.2",
     "cli-table": "^0.3.1"
   }
 }
